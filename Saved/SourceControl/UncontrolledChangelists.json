@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rrask/Documents/Unreal Projects/UnrealSCHMUP/Content/Main.umap",
+				"/Users/rrask/Documents/Unreal Projects/UnrealSCHMUP/Content/Level/Main.umap"
+			]
+		}
+	]
+}
